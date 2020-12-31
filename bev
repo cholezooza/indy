@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul  {
+  list-style: square inside url("sqpurple.gif");
+}
+</style>
+</head>
+<body>
+
+<h1>The list-style Property</h1>
+
+<p>The list-style is a shorthand property for all the list properties.</p>
+
+<ul>
+  <li>Coffee</li>
