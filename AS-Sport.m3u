@@ -8,5 +8,5 @@ http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://234.in.th/images/2021/01/01/813_300.png", Astro Sport 3
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
-h#EXTINF:-1 tvg-logo="ttps://234.in.th/images/2021/01/01/814_300.png", Astro Sport 4
+#EXTINF:-1 tvg-logo="ttps://234.in.th/images/2021/01/01/814_300.png", Astro Sport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
