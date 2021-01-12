@@ -1,0 +1,36 @@
+{
+"name": "Sport_AS",
+"author": "WHOAMI",
+"image": "https://234.in.th/images/2021/01/01/811_300.png",
+"url": "https://mookem.tk/Sport_AS.w3u",
+"stations": [
+	
+{
+"name": "ASTRO SPORT 1",  
+"image": "https://234.in.th/images/2021/01/01/811_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 2",  
+"image": "https://234.in.th/images/2021/01/01/812_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 3",  
+"image": "https://234.in.th/images/2021/01/01/813_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 4",  
+"image": "https://234.in.th/images/2021/01/01/814_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+
+
+  ]
+}
