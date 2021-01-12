@@ -1,12 +1,35 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://234.in.th/images/2021/01/01/811_300.png", Astro sport 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+{
+"name": "Sport_AS",
+"author": "WHOAMI",
+"image": "https://234.in.th/images/2021/01/01/811_300.png",
+"url": "https://mookem.tk/AS-Sport.m3u",
+"stations": [
+	
+{
+"name": "ASTRO SPORT 1",  
+"image": "https://234.in.th/images/2021/01/01/811_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 2",  
+"image": "https://234.in.th/images/2021/01/01/812_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 3",  
+"image": "https://234.in.th/images/2021/01/01/813_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ASTRO SPORT 4",  
+"image": "https://234.in.th/images/2021/01/01/814_300.png",  
+"url": "http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8",
+"playInNatPlayer": "true"
+},
 
-#EXTINF:-1 tvg-logo="https://234.in.th/images/2021/01/01/812_300.png", Astro Sport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://234.in.th/images/2021/01/01/813_300.png", Astro Sport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://234.in.th/images/2021/01/01/814_300.png", Astro Sport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+  ]
+}
