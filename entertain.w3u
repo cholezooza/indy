@@ -8,15 +8,15 @@
 {
 "name":"Fox TH",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qqgyc1ccpq8ws0osg8.png",
-"url":"https://www.doomovie-hd.com/?r=tv_view&id=123",
+"url":"https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8",
 "referer": "https://www.doomovie-hd.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
 "name":"Fox Movies Premium",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/51klb8iti2gw4kcs04.png",
-"url":"https://www.doomovie-hd.com/?r=tv_view&id=39",
-"referer": "https://www.doomovie-hd.com/",
+"url":"https://we-play.tv/watching/tv/fox-movies",
+"referer": "https://we-play.tv/tv/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
 {
@@ -156,8 +156,8 @@
 {
 "name":"ZEE NUNG",
 "image":"https://img-cdn.we-play.tv/posters/-poster1602704662.jpeg",
-"url":"https://we-play.tv/watching/tv/zee-nung",
-"referer": "https://we-play.tv/tv/",
+"url":"http://61.19.242.134:80/feed/LC5/index.m3u8",
+"referer": "https://cdn6.goprimetime.info",
 "userAgent": "exoplayer_video",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
 },
