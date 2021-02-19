@@ -8,16 +8,14 @@
 {
 "name":"Fox TH",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/qqgyc1ccpq8ws0osg8.png",
-"url":"https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8",
-"referer": "https://www.doomovie-hd.com/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"url":"https://we-play.tv/watching/tv/fox-thai",
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"Fox Movies Premium",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/51klb8iti2gw4kcs04.png",
 "url":"https://we-play.tv/watching/tv/fox-movies",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"Fox Life",
@@ -30,8 +28,7 @@
 "name":"Fox Family Movies",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/kgkk6oy51dcockck0s.png",
 "url":"https://we-play.tv/watching/tv/fox-family-movies",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"Fox Action Movies",
@@ -51,16 +48,13 @@
 "name":"WARNER TV",
 "image":"http://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/49xsdb3l2mecow8gk.png",
 "url":"https://we-play.tv/watching/tv/warner-tv",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"HBO HD",
 "image":"https://i.postimg.cc/N0kGB34X/hbo-hd.png",
 "url":"https://we-play.tv/watching/tv/hbo-hd",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "exoplayer_video",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"HBO HITS",
@@ -129,15 +123,13 @@
 "name":"Film HD",
 "image":"https://i.postimg.cc/wvrCp2SJ/truefilm.png",
 "url":"https://we-play.tv/watching/tv/true-film-hd",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"Film HD2",
 "image":"https://i.postimg.cc/8c5PBkzW/truefilm2.png",
 "url":"https://we-play.tv/watching/tv/true-film-hd-2",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"True Asian Series",
@@ -150,8 +142,7 @@
 "name":"Paramount",
 "image":"https://i.postimg.cc/Fsk97dpN/paramount.png",
 "url":"https://we-play.tv/watching/tv/paramount-channel",
-"referer": "https://we-play.tv/tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+"referer": "https://we-play.tv/tv/"
 },
 {
 "name":"ZEE NUNG",
