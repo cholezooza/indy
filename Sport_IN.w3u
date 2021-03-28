@@ -1,0 +1,27 @@
+               {
+               "name": "Sony Sport",
+               "image": "https://i.pinimg.com/originals/bc/66/80/bc66804bfc312ed1ceeca6c7f29e5ab5.png",
+               "author": "@WHOAMI",
+               "url": "https://mookem.tk/Sport_IN.w3u",
+               "stations": [            
+               {
+               "name": "Sony Ten 1 HD IN",  
+               "image": "https://picon-13398.kxcdn.com/sonyten1in.jpg",  
+               "url": "http://tv.iptvstack.net/live/lez7YWx2541/kvvpoj4623/10168.m3u8" },               
+               {
+               "name": "Sony Ten 2 HD IN",  
+               "image": "https://picon-13398.kxcdn.com/sonyten2in.jpg",  
+               "url": "http://tv.iptvstack.net/live/lez7YWx2541/kvvpoj4623/10170.m3u8" }, 
+               {                                                           
+               "name": "Sony Ten 3 HD IN",  
+               "image": "https://picon-13398.kxcdn.com/sonyten3in.jpg",  
+               "url": "http://tv.iptvstack.net/live/lez7YWx2541/kvvpoj4623/10169.m3u8" },               
+               {
+               "name": "Sony HD IN",  
+               "image": "https://picon-13398.kxcdn.com/sonytvin.jpg",  
+               "url": "http://tv.iptvstack.net/live/lez7YWx2541/kvvpoj4623/18805.m3u8" },
+
+
+
+]
+}

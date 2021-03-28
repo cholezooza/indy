@@ -1,32 +1,33 @@
-{
-"name": "Sport_ASTRO",
-"author": "WHOAMI",
-"image": "https://i.postimg.cc/0j355pcw/Astro.png",
-"url": "https://mookem.tk/Sport_AS.w3u",
-"stations": [
-	
                {
-               "name": "ASTRO SPORT 1",  
-               "image": "https://i.postimg.cc/VNMvgVtN/831-300.png",  
+               "name": "Astro SuperSport",
+               "image": "https://i.postimg.cc/0j355pcw/Astro.png",
+               "author": "@WHOAMI",
+               "url": "https://mookem.tk/Sport_AS.w3u",
+               "stations": [
+               {
+               "name": "Astro SuperSport 1",  
+               "image": "https://i.postimg.cc/9MhMnYPY/831-300.png",  
                "url": "http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8",
                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
                {
-               "name": "ASTRO SPORT 2",  
+               "name": "Astro SuperSport 2",  
                "image": "https://i.postimg.cc/9MhMnYPY/832-300.png",  
                "url": "http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
                {
-               "name": "ASTRO SPORT 3",  
+               "name": "Astro SuperSport 3",  
                "image": "https://i.postimg.cc/4dQdkHBk/833-300.png",  
                "url": "http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
                {
-               "name": "ASTRO SPORT 4",  
+               "name": "Astro SuperSport 4",  
                "image": "https://i.postimg.cc/L54sH4bq/834-300.png",  
                "url": "http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8",
-               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null" },
+               "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36/null"
+},
 
 
-
-  ]
+]
 }
