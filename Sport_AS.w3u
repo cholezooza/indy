@@ -1,9 +1,13 @@
                {
-               "name": "Astro SuperSport",
-               "image": "https://i.postimg.cc/0j355pcw/Astro.png",
+               "name": "Sport & Entertainment TV",
+               "image": "https://raw.githubusercontent.com/cholezooza/indy/main/premium_iptv.png",
                "author": "@WHOAMI",
                "url": "https://mookem.tk/Sport_AS.w3u",
-               "stations": [
+               "groups": [
+      {
+         "name": "Astro Supersport",
+          "image": "https://i.postimg.cc/0j355pcw/Astro.png",  
+          "stations": [               
                {
                "name": "Astro SuperSport 1",  
                "image": "http://junctv.tk/hd-asp1.jpg",  
@@ -33,5 +37,7 @@
 },
 
 
+]
+}
 ]
 }
